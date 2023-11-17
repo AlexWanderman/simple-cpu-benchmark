@@ -1,0 +1,9 @@
+[package]
+name = "simple-cpu-benchmark"
+version = "0.1.0"
+edition = "2021"
+authors = ["Alex Wanderman <58393741+AlexWanderman@users.noreply.github.com>"]
+description = "One line CPU benchmark (with no external dependencies)."
+repository = "https://github.com/AlexWanderman/simple-cpu-benchmark"
+license = "MIT"
+categories = ["command-line-utilities", "benchmark"]
