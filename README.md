@@ -1,4 +1,4 @@
-# Overview
+# Overview ![Crates.io](https://img.shields.io/crates/v/simple-cpu-benchmark)
 
 Super simple CPU benchmark with no external dependencies. Designed to be super
 simple by default (single command without args), and quick (takes at most 30
