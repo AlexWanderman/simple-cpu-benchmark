@@ -10,6 +10,8 @@ for a single thread - maximum Fibonacci number it was able to calculate. For
 multithreaded test runs a test for each logical thread in parallel and sums up
 the results.
 
+Install with `cargo install mkfile`.
+
 # Description
 
 todo
